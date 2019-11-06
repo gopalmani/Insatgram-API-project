@@ -1,1 +1,1 @@
-3rd party vendors, styling here
+Animation, Bootstrap, jquery, styling here.
